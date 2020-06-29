@@ -4,4 +4,4 @@ Leonardo Sena, tiene 30 años y nació en San Marcos - Sucre
 
 Mañana nos enfocaremos en su vida laboral
 
-probando git reset HEAD
+probando git reset HEAD de nuevo
