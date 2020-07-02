@@ -10,3 +10,5 @@ probando git reset HEAD de nuevo
 Colaborando en este proyecto
 
 Master 1
+
+Master 2
